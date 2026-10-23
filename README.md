@@ -6,6 +6,18 @@ MacVitals 基于原生 **Swift 6 + AppKit + SwiftUI** 构建，专为 Apple Sili
 
 ---
 
+## 📥 直接下载使用
+
+- 🚀 **[点击立即下载 MacVitals-v1.0.0.zip](https://github.com/LLeo1024/MacVitals/releases/download/v1.0.0/MacVitals-v1.0.0.zip)**（仅 168 KB）
+- 📦 **[所有历史版本 GitHub Releases](https://github.com/LLeo1024/MacVitals/releases)**
+
+> **安装提示**：
+> 1. 下载解压得到 `MacVitals.app`；
+> 2. 直接双击运行，或拖入「访达 → 应用程序」；
+> 3. 首次打开若 macOS 提示“无法验证开发者”，在「系统设置」→「隐私与安全性」中点击「仍要打开」即可。
+
+---
+
 ## 🌟 核心功能
 
 ### 1. 菜单栏紧凑双行排版（替代任务栏模式）

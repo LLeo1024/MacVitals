@@ -9,4 +9,4 @@ DerivedData/
 *.app
 main
 *.dSYM
-
+*.zip
